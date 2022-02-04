@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdellah07
 - 👀 I’m interested in  ERPs
-- 🌱 I’m currently student at Polytech NICE SOUPHIA
+- 🌱 I’m currently student at Polytech NICE SOPHIA
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me najiabdellah07@gmail.com
 
